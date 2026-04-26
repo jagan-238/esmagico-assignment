@@ -4,9 +4,9 @@
 
 ## 🔗 Repository & Live Links
 
-* **GitHub Repo:** <your-github-link>
-* **Frontend URL:** <your-frontend-url>
-* **Backend URL:** <your-backend-url>
+* **GitHub Repo:** https://github.com/jagan-238/esmagico-assignment
+* **Frontend URL:**https://esmagico-assignment-3h3j.vercel.app/
+* **Backend URL:** https://esmagico-assignment.onrender.com/
 
 ---
 
